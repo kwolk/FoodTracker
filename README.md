@@ -22,8 +22,7 @@ For each food item, you can store:
 
 _\* something can leave you feeling unwell and still be enjoyable — onions are a good example._
 
-<img width="354" height="994" alt="editview_w3 (30%)" src="https://github.com/user-attachments/assets/98d6e296-a438-40c2-a02e-2ca4f66b2e44" />
-
+<img width="354" height="994" alt="editview_w3 (30%)" src="https://github.com/user-attachments/assets/bb660211-0cde-4bef-8b9d-f84517e22fee" />
 
 ---
 
@@ -48,7 +47,7 @@ Search results are colour-coded so you can tell at a glance what you thought abo
 
 _nb. if both apply, **red takes priority** (it’s simply not something you want)_
 
-<img width="354" height="767" alt="colouredSearchResults_w3 (30%)" src="https://github.com/user-attachments/assets/f58e2843-b601-45ff-aee7-2146ca8c338a" />
+<img width="354" height="767" alt="colouredSearchResults_w3 (30%)" src="https://github.com/user-attachments/assets/4e0050dc-8613-4134-aa23-6f568c7dc80a" />
 
 ---
 
@@ -63,7 +62,7 @@ Shows the most important information at a glance:
 3. Photos
 4. Reviews
 
-<img width="354" height="767" alt="summaryViewSimplified_w3 (30%)" src="https://github.com/user-attachments/assets/cd053b21-5fdc-4a92-af37-cf48fb545b86" />
+<img width="354" height="767" alt="summaryViewSimplified_w3 (30%)" src="https://github.com/user-attachments/assets/32e70dd9-c4a5-483e-9c5d-9f56d5d25267" />
 
 ---
 
@@ -71,7 +70,7 @@ Shows the most important information at a glance:
 
 Tap the eye icon in the title bar to view **all recorded data** for an item.
 
-<img width="354" height="1227" alt="summaryViewFull_w3 (30%)" src="https://github.com/user-attachments/assets/257af5f9-549a-41fb-a973-37900c4d7864" />
+<img width="354" height="1227" alt="summaryViewFull_w3 (30%)" src="https://github.com/user-attachments/assets/6f6a66ef-918a-4c49-84a1-f5ac8355496c" />
 
 ---
 
