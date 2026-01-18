@@ -35,7 +35,7 @@ Items can be revisited days, months, or years later to see how things have chang
 - Older photos  
 - Past reviews (because tastes change)
 
-![swipeThePast](https://github.com/user-attachments/assets/49501754-5d46-42e4-aa7d-332046b95b39)
+![swipeThePast](https://github.com/user-attachments/assets/a2a85797-7b43-4543-9570-d9b90b005a59)
 
 ---
 
