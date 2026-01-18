@@ -75,7 +75,6 @@
 		8D0FA75B2F1C7BF100321093 = {
 			isa = PBXGroup;
 			children = (
-				8D0FA76B2F1C7BF400321093 /* Assets.xcassets */,
 				8D0FA7672F1C7BF200321093 /* FoodTrackerApp.swift */,
 				8D0FA7692F1C7BF200321093 /* SearchView.swift */,
 				8D0FA7752F1C7C8900321093 /* AddView.swift */,
@@ -90,6 +89,7 @@
 				8D0FA78A2F1C7C9100321093 /* Helpers */,
 				8D0FA78F2F1C7C9100321093 /* Models */,
 				8D0FA7662F1C7BF200321093 /* FoodTracker */,
+				8D0FA76B2F1C7BF400321093 /* Assets.xcassets */,
 				8D0FA7652F1C7BF200321093 /* Products */,
 			);
 			sourceTree = "<group>";
