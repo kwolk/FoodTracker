@@ -2,7 +2,7 @@
 //  EditPriceView.swift
 //  FoodTracker
 //
-//  Created by 🐯 on 17/01/2026.
+//  Created by Samuel Corke on 17/01/2026.
 //
 
 import SwiftUI
